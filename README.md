@@ -13,7 +13,7 @@ This repository contains OpenGL-based graphics programs developed in Code::Block
 ## Installation and Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/iamshibly/Graphics-Lab.git
+   git clone https://github.com/iamshibly/Computer-Graphics.git
    ```
 2. Open Code::Blocks and load the project files.
 3. Ensure OpenGL and GLUT are properly configured.
